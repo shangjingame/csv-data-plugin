@@ -1,13 +1,13 @@
 {
   "name": "csv-data-plugin",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "private": false,
   "repository": {
     "type": "git",
     "url": "https://github.com/crazyrebel/cvs-data-plugin.git"
   },
   "dependencies": {
-    "pomelo-logger": "git://github.com/silverera/pomelo-logger.git#v0.1.8",
+    "pomelo-logger": "https://github.com/shangjingame/pomelo-logger.git#v0.2.0",
     "csv": "5.1.1"
   }
 }
